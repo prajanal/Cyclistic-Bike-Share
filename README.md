@@ -32,55 +32,57 @@ To work with the extensive dataset from "How does a bike-share navigate speedy s
 * Open the "Go To" Window:
 * Press F5 or hold down CTRL+G to open the "Go To" window.
 
-Select Blank Cells:
-In the "Go To" window, click on Special.
-Choose Blanks and then click OK.
-This may take a few minutes depending on the size of your sheet and the number of blank cells.
+**Select Blank Cells:**
+* In the "Go To" window, click on Special.
+* Choose Blanks and then click OK.
+*This may take a few minutes depending on the size of your sheet and the number of blank cells*
 
 
 **Remove Rows with Blank Cells**
-Identify Highlighted Cells:
-After selecting blanks, scroll through the sheet to find any highlighted cells indicating blank entries.
-Delete Rows with Blank Cells:
-Right-click on any highlighted cell.
-Select Delete from the context menu.
-Choose Entire row to delete the entire row containing the blank cell.
-Confirm any warnings that appear.
-Repeat if Necessary:
- If there are multiple sections with blank cells, repeat the process until all rows with blank cells are removed.
-It might take a few iterations, and the sheet might temporarily freeze during the process.
+**Identify Highlighted Cells:**
+* After selecting blanks, scroll through the sheet to find any highlighted cells indicating blank entries.
+  
+ **Delete Rows with Blank Cells:**
+* Right-click on any highlighted cell.
+* Select Delete from the context menu.
+* Choose Entire row to delete the entire row containing the blank cell.
+* Confirm any warnings that appear.
+  
+**Repeat if Necessary:**
+* If there are multiple sections with blank cells, repeat the process until all rows with blank cells are removed.
+* It might take a few iterations, and the sheet might temporarily freeze during the process.
 
 
 
 **Step-by-Step Guide to Add and Format "ride_length" in Google Sheets**
-1. **Add "ride_length" Column**
-1.Open Your Google Sheet:
-Navigate to the Google Sheet you are working on.
-2. Insert the "ride_length" Column:
- Go to Column N.
-Click on cell N1 and enter "ride_length" to name the column.
-2. Calculate Ride Length
-Enter the Formula to Calculate Ride Length:
-Click on cell N2.
-Enter the formula =D2-C2 to calculate the ride length by subtracting the start time (Column C) from the end time (Column D).
+ **Add "ride_length" Column**
+* Open Your Google Sheet:
+* Navigate to the Google Sheet you are working on.
+**Insert the "ride_length" Column:**
+ * Go to Column N.
+* Click on cell N1 and enter "ride_length" to name the column.
+** Calculate Ride Length**
+* Enter the Formula to Calculate Ride Length:
+* Click on cell N2.
+* Enter the formula =D2-C2 to calculate the ride length by subtracting the start time (Column C) from the end time (Column D).
 
-3. Format the Ride Length as HH:MM
-Select the Cell with the Formula:
-Click on cell N2.
-Open Format Cells Window:
-Right-click on cell N2.
-Select Format cells.
-Change to Time Format:
-In the "Format cells" window, go to the Number tab.
-Select Time from the "Category:" list.
-Choose the time format 37:30:55 from the "Type:" list.
-Click OK.
-Autofill the Column with the Formula
-1. Copy the Formula Down the Column:
-Select cell N2.
-Press CTRL+C to copy the formula.
-Select cell N3, then hold CTRL+SHIFT+down-arrow key to select the entire column down to the last row with data.
-Press CTRL+V to paste the formula into all selected cells.
+**Format the Ride Length as HH:MM**
+**Select the Cell with the Formula:**
+* Click on cell N2.
+**Open Format Cells Window:**
+* Right-click on cell N2.
+* Select Format cells.
+**Change to Time Format:**
+* In the "Format cells" window, go to the Number tab.
+* Select Time from the "Category:" list.
+* Choose the time format 37:30:55 from the "Type:" list.
+* Click OK.
+**Autofill the Column with the Formula**
+ *Copy the Formula Down the Column:*
+* Select cell N2.
+* Press CTRL+C to copy the formula.
+* Select cell N3, then hold CTRL+SHIFT+down-arrow key to select the entire column down to the last row with data.
+* Press CTRL+V to paste the formula into all selected cells.
 
 **Steps to Add a "day_of_week" Column in Google Sheets**
 
