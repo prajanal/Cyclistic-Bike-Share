@@ -3,35 +3,34 @@
 # The Spreadsheet Process - From Dirty to Clean: 
 To work with the extensive dataset from "How does a bike-share navigate speedy success?" efficiently, I opted to focus on a subset of the data. I downloaded files spanning December 2023 to February 2024 from Case Study 1_How does a bike-shared navigate speedy success. And  analyzes to derive insights specific to each month.
 
-**Managing Data for Analysis**: A Step-by-Step Guide
+**Managing Data for Analysis: A Step-by-Step Guide**
 **Download case study**
-Get the files from December 2023 to February 2024.
-
+* Get the files from December 2023 to February 2024.
+  
 **Organize Files**
-Unzip them and put them in a folder named with "CSV" for clarity.
+*  Unzip them and put them in a folder named with "CSV" for clarity.
 
 **Folder Location**
-Create a folder on your drive and name it appropriately.
-Put the CSV folder inside it.
+* Create a folder on your drive and name it appropriately.
+* Put the CSV folder inside it.
 
-This setup helps manage the data for further analysis using SQL, R, or Tableau. We'll focus on analyzing the three-month data separately and comparing the results later
+*This setup helps manage the data for further analysis using SQL, R, or Tableau. We'll focus on analyzing the three-month data separately and comparing the results later*
 
 **Selecting and Cleaning data**  
-Checking if the sheet has any missing data by manually identifying and removing rows.
+* Checking if the sheet has any missing data by manually identifying and removing rows.
 
-This process is per situation, and normally stakeholders are involved with the decision on what to do with empty cells.
+*This process is per situation, and normally stakeholders are involved with the decision on what to do with empty cells*
 
 **Select All Fields**
-    1.  Open Your Google Sheet:
- Navigate to the Google Sheet you are working on.
+* Open Your Google Sheet:
+   Navigate to the Google Sheet you are working on.
 
-2.  Select All Fields:
- Click the top-left corner of the sheet (the small square above row 1 and to the left of column A). This action will select all cells in the sheet.
-
+  * Select All Fields:
+        Click the top-left corner of the sheet (the small square above row 1 and to the left of column A). This action will select all cells in the sheet.
 
 **Identify Blank Cells**
-Open the "Go To" Window:
-Press F5 or hold down CTRL+G to open the "Go To" window.
+* Open the "Go To" Window:
+* Press F5 or hold down CTRL+G to open the "Go To" window.
 
 Select Blank Cells:
 In the "Go To" window, click on Special.
