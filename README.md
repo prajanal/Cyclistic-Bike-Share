@@ -55,9 +55,11 @@ To work with the extensive dataset from "How does a bike-share navigate speedy s
 
 
 **Step-by-Step Guide to Add and Format "ride_length" in Google Sheets**
+
  **Add "ride_length" Column**
 * Open Your Google Sheet:
 * Navigate to the Google Sheet you are working on.
+  
 **Insert the "ride_length" Column:**
  * Go to Column N.
 * Click on cell N1 and enter "ride_length" to name the column.
@@ -67,16 +69,19 @@ To work with the extensive dataset from "How does a bike-share navigate speedy s
 * Enter the formula =D2-C2 to calculate the ride length by subtracting the start time (Column C) from the end time (Column D).
 
 **Format the Ride Length as HH:MM**
+
 **Select the Cell with the Formula:**
 * Click on cell N2.
 **Open Format Cells Window:**
 * Right-click on cell N2.
 * Select Format cells.
+  
 **Change to Time Format:**
 * In the "Format cells" window, go to the Number tab.
 * Select Time from the "Category:" list.
 * Choose the time format 37:30:55 from the "Type:" list.
 * Click OK.
+  
 **Autofill the Column with the Formula**
  *Copy the Formula Down the Column:*
 * Select cell N2.
@@ -86,35 +91,35 @@ To work with the extensive dataset from "How does a bike-share navigate speedy s
 
 **Steps to Add a "day_of_week" Column in Google Sheets**
 
-1. Create the "day_of_week" Column
-Open Your Google Sheet:
-Navigate to the Google Sheet you are working on.
-       2. Create a New Column:
- Scroll to Column O (or the next available empty column).
-In cell O1, type day_of_week to name the new column.
-2. Enter the Formula
-Enter the Formula in O2:
-In cell O2, enter the formula =WEEKDAY(C2, 1).
-This formula will return a number representing the day of the week (1 = Sunday, 7 = Saturday).
+**Create the "day_of_week" Column**
+* Open Your Google Sheet:
+* Navigate to the Google Sheet you are working on.
+  
+  **Create a New Column:**
+ * Scroll to Column O (or the next available empty column).
+* In cell O1, type day_of_week to name the new column.
+  
+  **Enter the Formula**
+* Enter the Formula in O2:
+* In cell O2, enter the formula =WEEKDAY(C2, 1).
+* This formula will return a number representing the day of the week (1 = Sunday, 7 = Saturday).
 
  5. **Creating Pivot table**
+    * Piviot table
+* Open Your Google Sheet:Insert a Pivot Table:
+* Click anywhere on your data sheet.
+* Go to the top menu and click on Data > Pivot table.
 
-     1. Create a Pivot Table
-Open Your Google Sheet:Insert a Pivot Table:
-Click anywhere on your data sheet.
-Go to the top menu and click on Data > Pivot table.
-
-Set Up the Pivot Table
-1. Add Rows and Columns:
-In the Pivot table editor, under Rows, add ‘member_casual’ and ‘day_of_week’ 
-In the Values area, add ‘ride_length’.
-Add Values:
-In the Values area, add ride_length:Click on Summarize by and select AVERAGE to calculate the average ride length.
-Add ride_id to the Values area:Click on Summarize by and select COUNTA to count the number of rides.
+**Set Up the Pivot Table**
+*  Add Rows and Columns:
+* In the Pivot table editor, under Rows, add ‘member_casual’ and ‘day_of_week’ 
+* In the Values area, add ‘ride_length’.
+* Add Values:
+* In the Values area, add ride_length:Click on Summarize by and select AVERAGE to calculate the average ride length.
+* Add ride_id to the Values area:Click on Summarize by and select COUNTA to count the number of rides.
 
 6. **Summary:**
-
-Due to the amount of content, the summary is too large to post on GitHub; a .PNG file has to be done.
+* Due to the amount of content, the summary is too large to post on GitHub; a .PNG file has to be done.
 
 
 Bike share data pivot table for February 2024 
