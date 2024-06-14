@@ -96,7 +96,7 @@ Enter the Formula in O2:
 In cell O2, enter the formula =WEEKDAY(C2, 1).
 This formula will return a number representing the day of the week (1 = Sunday, 7 = Saturday).
 
- 5. Creating Pivot table
+ 5. **Creating Pivot table**
 
      1. Create a Pivot Table
 Open Your Google Sheet:Insert a Pivot Table:
@@ -111,7 +111,7 @@ Add Values:
 In the Values area, add ride_length:Click on Summarize by and select AVERAGE to calculate the average ride length.
 Add ride_id to the Values area:Click on Summarize by and select COUNTA to count the number of rides.
 
-6. Summary:
+6. **Summary:**
 
 Due to the amount of content, the summary is too large to post on GitHub; a .PNG file has to be done.
 
@@ -135,11 +135,12 @@ Bike share data pivot table for January 2024
 
 
 
-7. Fin:
+7. **Fin:**
 As per stakeholder request:
-Downloaded all CSV files from December 2023 to February 2024.
-Ensured all files were error-free and cleaned them up as needed.
-Added new columns to the data using formulas to combine relevant information.
-Created multiple pivot tables based on stakeholder requests to analyze different aspects of the data.
-Developed a summary report highlighting key findings and insights from the data analysis.
-Provided clean, organized, and easy-to-understand data for the stakeholder to make informed decisions.
+* Downloaded all CSV files from December 2023 to February 2024.
+* Ensured all files were error-free and cleaned them up as needed.
+* Added new columns to the data using formulas to combine relevant information.
+* Created multiple pivot tables based on stakeholder requests to analyze different aspects of the data.
+* Developed a summary report highlighting key findings and insights from the data analysis.
+* Provided clean, organized, and easy-to-understand data for the stakeholder to make informed decisions.
+  
