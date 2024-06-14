@@ -3,25 +3,25 @@
 # The Spreadsheet Process - From Dirty to Clean: 
 To work with the extensive dataset from "How does a bike-share navigate speedy success?" efficiently, I opted to focus on a subset of the data. I downloaded files spanning December 2023 to February 2024 from Case Study 1_How does a bike-shared navigate speedy success. And  analyzes to derive insights specific to each month.
 
-Managing Data for Analysis: A Step-by-Step Guide
-Download case study
+**Managing Data for Analysis**: A Step-by-Step Guide
+**Download case study**
 Get the files from December 2023 to February 2024.
 
-Organize Files:
+**Organize Files**
 Unzip them and put them in a folder named with "CSV" for clarity.
 
-Folder Location:
+**Folder Location**
 Create a folder on your drive and name it appropriately.
 Put the CSV folder inside it.
 
 This setup helps manage the data for further analysis using SQL, R, or Tableau. We'll focus on analyzing the three-month data separately and comparing the results later
 
-
-2.  Selecting and Cleaning data:Checking if the sheet has any missing data by manually identifying and removing rows.
+**Selecting and Cleaning data**  
+Checking if the sheet has any missing data by manually identifying and removing rows.
 
 This process is per situation, and normally stakeholders are involved with the decision on what to do with empty cells.
 
-1. Select All Fields
+**Select All Fields**
     1.  Open Your Google Sheet:
  Navigate to the Google Sheet you are working on.
 
@@ -29,7 +29,7 @@ This process is per situation, and normally stakeholders are involved with the d
  Click the top-left corner of the sheet (the small square above row 1 and to the left of column A). This action will select all cells in the sheet.
 
 
-2. Identify Blank Cells
+**Identify Blank Cells**
 Open the "Go To" Window:
 Press F5 or hold down CTRL+G to open the "Go To" window.
 
@@ -39,7 +39,7 @@ Choose Blanks and then click OK.
 This may take a few minutes depending on the size of your sheet and the number of blank cells.
 
 
-3. Remove Rows with Blank Cells
+**Remove Rows with Blank Cells**
 Identify Highlighted Cells:
 After selecting blanks, scroll through the sheet to find any highlighted cells indicating blank entries.
 Delete Rows with Blank Cells:
@@ -53,8 +53,8 @@ It might take a few iterations, and the sheet might temporarily freeze during th
 
 
 
-3.  Step-by-Step Guide to Add and Format "ride_length" in Google Sheets
-1. Add "ride_length" Column
+**Step-by-Step Guide to Add and Format "ride_length" in Google Sheets**
+1. **Add "ride_length" Column**
 1.Open Your Google Sheet:
 Navigate to the Google Sheet you are working on.
 2. Insert the "ride_length" Column:
@@ -83,7 +83,7 @@ Press CTRL+C to copy the formula.
 Select cell N3, then hold CTRL+SHIFT+down-arrow key to select the entire column down to the last row with data.
 Press CTRL+V to paste the formula into all selected cells.
 
-   4. Steps to Add a "day_of_week" Column in Google Sheets
+**Steps to Add a "day_of_week" Column in Google Sheets**
 
 1. Create the "day_of_week" Column
 Open Your Google Sheet:
