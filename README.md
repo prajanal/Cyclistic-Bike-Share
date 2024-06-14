@@ -1,6 +1,6 @@
 # Cyclistic-Bike-Share
-Spreadsheet Process - Dirty to Clean
 
+# The Spreadsheet Process - From Dirty to Clean: 
 To work with the extensive dataset from "How does a bike-share navigate speedy success?" efficiently, I opted to focus on a subset of the data. I downloaded files spanning December 2023 to February 2024 from Case Study 1_How does a bike-shared navigate speedy success. And  analyzes to derive insights specific to each month.
 
 Managing Data for Analysis: A Step-by-Step Guide
