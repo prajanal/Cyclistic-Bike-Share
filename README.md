@@ -1,7 +1,7 @@
 # Cyclistic-Bike-Share
 
 # The Spreadsheet Process - From Dirty to Clean: 
-To work with the extensive dataset from "How does a bike-share navigate speedy success?" efficiently, I opted to focus on a subset of the data. I downloaded files spanning December 2023 to February 2024 from Case Study 1_How does a bike-shared navigate speedy success. And  analyzes to derive insights specific to each month.
+To work with the extensive dataset from "How does a bike-share navigate speedy success?" efficiently, I opted to focus on a subset of the data. I downloaded files spanning December 2023 to February 2024 from [Case Study 1_How does a bike-shared navigate speedy success](https://www.coursera.org/api/rest/v1/asset/download/pdf/1XKhm37HS9iPXHfAIEBaRQ?pageStart=&pageEnd=). And  analyzes to derive insights specific to each month.
 
 **Managing Data for Analysis: A Step-by-Step Guide**
 **Download case study**
@@ -122,23 +122,16 @@ To work with the extensive dataset from "How does a bike-share navigate speedy s
 * Due to the amount of content, the summary is too large to post on GitHub; a .PNG file has to be done.
 
 
-Bike share data pivot table for February 2024 
-![Bike share data pivot table for February 2024]([https://drive.google.com/file/d/1YZUnqU3goDFr_3FMJcr0BKYIwteR9kMq/view?usp=](https://drive.google.com/file/d/1A2tQlqchpYBX-Uf4_Z--IZc17K9rY_DJ/view?usp=drive_link)
-
-Bike share data pivot table for December 2023 
+**Bike share data pivot table for February 2024**
+![Bike share data pivot table for February 2024](https://github.com/prajanal/Cyclistic-Bike-Share/assets/166857271/0e8b3824-af50-4007-bf1d-6632725a1446)
 
 
+**Bike share data pivot table for January 2024**
+![Bike share data pivot table for January 2024](https://github.com/prajanal/Cyclistic-Bike-Share/assets/166857271/2284461e-ed63-40e6-8ed5-f1939d42940e)
 
 
-
-
-
-
-
-
-Bike share data pivot table for January 2024 
-
-
+**Bike share data pivot table for December 2023** 
+![Bike share data pivot table for December 2023](https://github.com/prajanal/Cyclistic-Bike-Share/assets/166857271/a0d68ed6-b3db-4fdd-bf62-efedd93d3a02)
 
 
 7. **Fin:**
