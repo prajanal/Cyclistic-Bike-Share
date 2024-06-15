@@ -123,7 +123,7 @@ To work with the extensive dataset from "How does a bike-share navigate speedy s
 
 
 Bike share data pivot table for February 2024 
-![Bike share data pivot table for February 2024](https://drive.google.com/file/d/1EIRpKaRIi7jFFsoGchkZki1jJcK4W3dI/view?usp=sharing))
+![Bike share data pivot table for February 2024]([https://drive.google.com/file/d/1YZUnqU3goDFr_3FMJcr0BKYIwteR9kMq/view?usp=](https://drive.google.com/file/d/1A2tQlqchpYBX-Uf4_Z--IZc17K9rY_DJ/view?usp=drive_link)
 
 Bike share data pivot table for December 2023 
 
