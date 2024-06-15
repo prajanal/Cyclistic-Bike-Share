@@ -4,7 +4,7 @@
 To work with the extensive dataset from "How does a bike-share navigate speedy success?" efficiently, I opted to focus on a subset of the data. I downloaded files spanning December 2023 to February 2024 from [Case Study 1_How does a bike-shared navigate speedy success](https://www.coursera.org/api/rest/v1/asset/download/pdf/1XKhm37HS9iPXHfAIEBaRQ?pageStart=&pageEnd=). And  analyzes to derive insights specific to each month.
 
 **Managing Data for Analysis: A Step-by-Step Guide**
-**Download case study**
+**Download [case study](https://www.coursera.org/api/rest/v1/asset/download/pdf/1XKhm37HS9iPXHfAIEBaRQ?pageStart=&pageEnd=)**
 * Get the files from December 2023 to February 2024.
   
 **Organize Files**
